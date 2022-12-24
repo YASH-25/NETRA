@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "796504008794",
+    "project_id": "netra-ai-e6696",
+    "storage_bucket": "netra-ai-e6696.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796504008794:android:7a15a02912765229f1d063",
+        "android_client_info": {
+          "package_name": "com.example.netra_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796504008794-6iiih0hvnimfhhb3ub45ir0vfmnt7hij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCyhdXejw4tcjUs5swyNjUIAckNq9FEns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796504008794-6iiih0hvnimfhhb3ub45ir0vfmnt7hij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
